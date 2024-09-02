@@ -1,0 +1,402 @@
+{
+    "Bitcoin": {
+        "Cryptocurrency": "Bitcoin",
+        "Price": "$47,434"
+    },
+    "Ethereum": {
+        "Cryptocurrency": "Ethereum",
+        "Price": "$3,555.04"
+    },
+    "Cardano": {
+        "Cryptocurrency": "Cardano",
+        "Price": "$2.41"
+    },
+    "Tether": {
+        "Cryptocurrency": "Tether",
+        "Price": "$1.00"
+    },
+    "Binance Coin": {
+        "Cryptocurrency": "Binance Coin",
+        "Price": "$422.92"
+    },
+    "XRP": {
+        "Cryptocurrency": "XRP",
+        "Price": "$1.09"
+    },
+    "Solana": {
+        "Cryptocurrency": "Solana",
+        "Price": "$150.78"
+    },
+    "Polkadot": {
+        "Cryptocurrency": "Polkadot",
+        "Price": "$34.95"
+    },
+    "Dogecoin": {
+        "Cryptocurrency": "Dogecoin",
+        "Price": "$0.238273"
+    },
+    "USD Coin": {
+        "Cryptocurrency": "USD Coin",
+        "Price": "$1.00"
+    },
+    "Terra": {
+        "Cryptocurrency": "Terra",
+        "Price": "$37.50"
+    },
+    "Avalanche": {
+        "Cryptocurrency": "Avalanche",
+        "Price": "$64.70"
+    },
+    "Uniswap": {
+        "Cryptocurrency": "Uniswap",
+        "Price": "$26.06"
+    },
+    "Chainlink": {
+        "Cryptocurrency": "Chainlink",
+        "Price": "$29.62"
+    },
+    "Binance USD": {
+        "Cryptocurrency": "Binance USD",
+        "Price": "$1.00"
+    },
+    "Litecoin": {
+        "Cryptocurrency": "Litecoin",
+        "Price": "$184.17"
+    },
+    "Bitcoin Cash": {
+        "Cryptocurrency": "Bitcoin Cash",
+        "Price": "$636.59"
+    },
+    "Algorand": {
+        "Cryptocurrency": "Algorand",
+        "Price": "$2.04"
+    },
+    "Wrapped Bitcoin": {
+        "Cryptocurrency": "Wrapped Bitcoin",
+        "Price": "$47,486"
+    },
+    "Cosmos": {
+        "Cryptocurrency": "Cosmos",
+        "Price": "$34.64"
+    },
+    "Internet Computer": {
+        "Cryptocurrency": "Internet Computer",
+        "Price": "$58.00"
+    },
+    "Polygon": {
+        "Cryptocurrency": "Polygon",
+        "Price": "$1.37"
+    },
+    "Filecoin": {
+        "Cryptocurrency": "Filecoin",
+        "Price": "$83.17"
+    },
+    "TRON": {
+        "Cryptocurrency": "TRON",
+        "Price": "$0.115180"
+    },
+    "FTX Token": {
+        "Cryptocurrency": "FTX Token",
+        "Price": "$66.86"
+    },
+    "Stellar": {
+        "Cryptocurrency": "Stellar",
+        "Price": "$0.327691"
+    },
+    "VeChain": {
+        "Cryptocurrency": "VeChain",
+        "Price": "$0.115983"
+    },
+    "Ethereum Classic": {
+        "Cryptocurrency": "Ethereum Classic",
+        "Price": "$57.43"
+    },
+    "Theta Network": {
+        "Cryptocurrency": "Theta Network",
+        "Price": "$6.56"
+    },
+    "Dai": {
+        "Cryptocurrency": "Dai",
+        "Price": "$1.00"
+    },
+    "cETH": {
+        "Cryptocurrency": "cETH",
+        "Price": "$71.37"
+    },
+    "Tezos": {
+        "Cryptocurrency": "Tezos",
+        "Price": "$6.66"
+    },
+    "Elrond": {
+        "Cryptocurrency": "Elrond",
+        "Price": "$265.95"
+    },
+    "Aave": {
+        "Cryptocurrency": "Aave",
+        "Price": "$377.75"
+    },
+    "PancakeSwap": {
+        "Cryptocurrency": "PancakeSwap",
+        "Price": "$22.30"
+    },
+    "OKB": {
+        "Cryptocurrency": "OKB",
+        "Price": "$18.58"
+    },
+    "Quant": {
+        "Cryptocurrency": "Quant",
+        "Price": "$362.55"
+    },
+    "Bitcoin Cash ABC": {
+        "Cryptocurrency": "Bitcoin Cash ABC",
+        "Price": "$258.69"
+    },
+    "EOS": {
+        "Cryptocurrency": "EOS",
+        "Price": "$4.99"
+    },
+    "Crypto.com Coin": {
+        "Cryptocurrency": "Crypto.com Coin",
+        "Price": "$0.190320"
+    },
+    "Monero": {
+        "Cryptocurrency": "Monero",
+        "Price": "$262.97"
+    },
+    "eCash": {
+        "Cryptocurrency": "eCash",
+        "Price": "$0.000247440882"
+    },
+    "cDAI": {
+        "Cryptocurrency": "cDAI",
+        "Price": "$0.021652015300"
+    },
+    "Hedera Hashgraph": {
+        "Cryptocurrency": "Hedera Hashgraph",
+        "Price": "$0.468966"
+    },
+    "Lido Staked Ether": {
+        "Cryptocurrency": "Lido Staked Ether",
+        "Price": "$3,525.80"
+    },
+    "cUSDC": {
+        "Cryptocurrency": "cUSDC",
+        "Price": "$0.022214484653"
+    },
+    "The Graph": {
+        "Cryptocurrency": "The Graph",
+        "Price": "$0.851952"
+    },
+    "IOTA": {
+        "Cryptocurrency": "IOTA",
+        "Price": "$1.50"
+    },
+    "Shiba Inu": {
+        "Cryptocurrency": "Shiba Inu",
+        "Price": "$0.000008214319"
+    },
+    "Near": {
+        "Cryptocurrency": "Near",
+        "Price": "$8.63"
+    },
+    "Axie Infinity": {
+        "Cryptocurrency": "Axie Infinity",
+        "Price": "$66.80"
+    },
+    "Kusama": {
+        "Cryptocurrency": "Kusama",
+        "Price": "$408.27"
+    },
+    "NEO": {
+        "Cryptocurrency": "NEO",
+        "Price": "$50.10"
+    },
+    "Klaytn": {
+        "Cryptocurrency": "Klaytn",
+        "Price": "$1.34"
+    },
+    "Fantom": {
+        "Cryptocurrency": "Fantom",
+        "Price": "$1.30"
+    },
+    "Waves": {
+        "Cryptocurrency": "Waves",
+        "Price": "$30.74"
+    },
+    "LEO Token": {
+        "Cryptocurrency": "LEO Token",
+        "Price": "$3.18"
+    },
+    "Bitcoin SV": {
+        "Cryptocurrency": "Bitcoin SV",
+        "Price": "$156.11"
+    },
+    "Sushi": {
+        "Cryptocurrency": "Sushi",
+        "Price": "$14.98"
+    },
+    "Maker": {
+        "Cryptocurrency": "Maker",
+        "Price": "$2,979.04"
+    },
+    "THORChain": {
+        "Cryptocurrency": "THORChain",
+        "Price": "$10.15"
+    },
+    "BitTorrent": {
+        "Cryptocurrency": "BitTorrent",
+        "Price": "$0.004018159034"
+    },
+    "TerraUSD": {
+        "Cryptocurrency": "TerraUSD",
+        "Price": "$1.00"
+    },
+    "Synthetix Network Token": {
+        "Cryptocurrency": "Synthetix Network Token",
+        "Price": "$14.29"
+    },
+    "Amp": {
+        "Cryptocurrency": "Amp",
+        "Price": "$0.049703028186"
+    },
+    "Huobi Token": {
+        "Cryptocurrency": "Huobi Token",
+        "Price": "$14.43"
+    },
+    "Arweave": {
+        "Cryptocurrency": "Arweave",
+        "Price": "$52.96"
+    },
+    "Compound": {
+        "Cryptocurrency": "Compound",
+        "Price": "$422.28"
+    },
+    "Celsius Network": {
+        "Cryptocurrency": "Celsius Network",
+        "Price": "$5.39"
+    },
+    "Dash": {
+        "Cryptocurrency": "Dash",
+        "Price": "$207.14"
+    },
+    "Helium": {
+        "Cryptocurrency": "Helium",
+        "Price": "$20.27"
+    },
+    "Huobi BTC": {
+        "Cryptocurrency": "Huobi BTC",
+        "Price": "$47,539"
+    },
+    "Decred": {
+        "Cryptocurrency": "Decred",
+        "Price": "$139.62"
+    },
+    "Chiliz": {
+        "Cryptocurrency": "Chiliz",
+        "Price": "$0.335571"
+    },
+    "Harmony": {
+        "Cryptocurrency": "Harmony",
+        "Price": "$0.164662"
+    },
+    "Holo": {
+        "Cryptocurrency": "Holo",
+        "Price": "$0.009723339805"
+    },
+    "NEM": {
+        "Cryptocurrency": "NEM",
+        "Price": "$0.188889"
+    },
+    "Theta Fuel": {
+        "Cryptocurrency": "Theta Fuel",
+        "Price": "$0.317910"
+    },
+    "IOST": {
+        "Cryptocurrency": "IOST",
+        "Price": "$0.073282221363"
+    },
+    "Zcash": {
+        "Cryptocurrency": "Zcash",
+        "Price": "$136.30"
+    },
+    "Stacks": {
+        "Cryptocurrency": "Stacks",
+        "Price": "$1.50"
+    },
+    "Enjin Coin": {
+        "Cryptocurrency": "Enjin Coin",
+        "Price": "$1.66"
+    },
+    "XDC Network": {
+        "Cryptocurrency": "XDC Network",
+        "Price": "$0.123597"
+    },
+    "TrueUSD": {
+        "Cryptocurrency": "TrueUSD",
+        "Price": "$0.999529"
+    },
+    "Zilliqa": {
+        "Cryptocurrency": "Zilliqa",
+        "Price": "$0.110563"
+    },
+    "ICON": {
+        "Cryptocurrency": "ICON",
+        "Price": "$2.03"
+    },
+    "Flow": {
+        "Cryptocurrency": "Flow",
+        "Price": "$21.20"
+    },
+    "Mina Protocol": {
+        "Cryptocurrency": "Mina Protocol",
+        "Price": "$5.60"
+    },
+    "xSUSHI": {
+        "Cryptocurrency": "xSUSHI",
+        "Price": "$18.04"
+    },
+    "Qtum": {
+        "Cryptocurrency": "Qtum",
+        "Price": "$12.66"
+    },
+    "yearn.finance": {
+        "Cryptocurrency": "yearn.finance",
+        "Price": "$34,712"
+    },
+    "Curve DAO Token": {
+        "Cryptocurrency": "Curve DAO Token",
+        "Price": "$3.05"
+    },
+    "OMG Network": {
+        "Cryptocurrency": "OMG Network",
+        "Price": "$8.66"
+    },
+    "Bitcoin Gold": {
+        "Cryptocurrency": "Bitcoin Gold",
+        "Price": "$69.22"
+    },
+    "Horizen": {
+        "Cryptocurrency": "Horizen",
+        "Price": "$100.59"
+    },
+    "Basic Attention Token": {
+        "Cryptocurrency": "Basic Attention Token",
+        "Price": "$0.771503"
+    },
+    "Osmosis": {
+        "Cryptocurrency": "Osmosis",
+        "Price": "$6.43"
+    },
+    "Ravencoin": {
+        "Cryptocurrency": "Ravencoin",
+        "Price": "$0.116580"
+    },
+    "Decentraland": {
+        "Cryptocurrency": "Decentraland",
+        "Price": "$0.843577"
+    },
+    "Audius": {
+        "Cryptocurrency": "Audius",
+        "Price": "$2.74"
+    }
+}
